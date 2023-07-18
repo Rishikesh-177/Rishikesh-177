@@ -16,7 +16,7 @@ navigation and Redux for state management.
 
 ![Project 1 Screenshot/GIF](path/to/project1_screenshot.gif) 
 
-### 2. [Kanban Board Clone ](https://kanban-board-project2.netlify.app/))
+### 2. [Kanban Board Clone] (https://kanban-board-project2.netlify.app/))
 Developed a Kanban board clone web application using HTML, CSS,
 JavaScript, React, and Redux. Implemented drag-and-drop functionality to create and
 manage tasks across different columns such as "To Do," "In Progress," and "Completed."
@@ -43,7 +43,7 @@ Provide instructions on how to run or deploy your projects locally. Include prer
 
 ## Getting in Touch
 
-- 📧 Email: your.email@example.com
+- 📧 Email: rushikesh.rikibe17@gmail.com
 - 🌐 Portfolio:  <!-- If you have a personal website -->
 - 💼 LinkedIn: [LinkedIn Profile](https://https://www.linkedin.com/in/rushikesh-rikibe-b13baa229)
 - 🐦 Twitter: [Twitter Profile](https://twitter.com)
